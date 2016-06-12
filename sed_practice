@@ -1,0 +1,11 @@
+# SED practice file
+# syntax where sed 's/search_pattern/replace_string/' FILENAME
+
+# Say I want to write only the changes to a new file
+# 's/search_pattern/replace_string/w lang_change.txt' team
+
+Peter english
+mary english
+makiko japanese
+joaquin spanish
+mariko japanese
